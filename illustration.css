@@ -53,8 +53,12 @@ img{
     margin-left: 5%;
     line-height: 8px;
 }
+.p{
+    margin-top: 7%;
+}
 .first{
     display: flex;
+    margin-left: 5px;
 }
 .second{
     padding-left: 30%;
@@ -72,7 +76,7 @@ img{
     line-height: 25px;
 }
 .lft1{
-    height: 84px;
+    height: 90px;
 }
 .right-row{
     background-color: hsl(0, 0%, 100%);

@@ -129,16 +129,16 @@ h1{
         flex-direction: column;
     }
     .screen{
-        width: 80%;
+        width: 82%;
         margin: 10% auto;
     }
     .top{
         width: 45%;
-        left: 27.5%;
+        left: 27.7%;
         margin-top: 12%;
     }
     .side{
-        width: 6%;
+        width: 5%;
     }
     .writeup{
         width: 80%;

@@ -58,7 +58,6 @@ img{
 }
 .first{
     display: flex;
-    margin-left: 5px;
 }
 .second{
     padding-left: 30%;

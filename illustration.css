@@ -119,6 +119,8 @@ input{
     text-align: start;
     width: 30%;
     height: 300px;
+    font-size: 20px;
+    word-spacing: 5px;
 }
 h1{
     color: hsl(271, 36%, 24%);

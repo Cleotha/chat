@@ -68,10 +68,11 @@ img{
     color: hsl(276, 55%, 52%);
     border-radius: 10px;
     width: 70%;
-    height: 55px;
+    height: 64px;
     margin-right: 20%;
     margin-top: 5px;
     padding-left: 10px;
+    padding-top: 1px;
     line-height: 25px;
 }
 .lft1{
@@ -98,7 +99,7 @@ img{
     line-height: 27px;
 }
 .dog{
-    width: 26%;
+    width: 24%;
     height: 45px;
     border-radius: 20%;
 }
@@ -111,7 +112,7 @@ input{
     height: 45px;
     border-radius: 10px;
     border-style: none;
-    margin-top: 20px;
+    margin-top: 20%;
     padding-left: 10px;
 }
 .writeup{
@@ -134,6 +135,13 @@ h1{
         width: 80%;
         margin: 10% auto;
     }
+    .left-row{
+        height: 55px;
+        padding-top: 0;
+    }
+    .btn{
+        height: 37px;
+    }
     .top{
         width: 45%;
         left: 27.5%;
@@ -141,6 +149,12 @@ h1{
     }
     .side{
         width: 6%;
+    }
+    input{
+        margin-top: 20px;
+    }
+    .lft1{
+        height: 95px;
     }
     .writeup{
         width: 80%;
